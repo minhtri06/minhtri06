@@ -1,4 +1,4 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQELYL-G6R96Xw/profile-displaybackgroundimage-shrink_350_1400/0/1668761506048?e=1674086400&v=beta&t=rx7B-1XvahN75bZY0hTPrx7UUPXwdOh2QsVob3OAjWU)
+![MasterHead]([https://media-exp1.licdn.com/dms/image/C4E16AQELYL-G6R96Xw/profile-displaybackgroundimage-shrink_350_1400/0/1668761506048?e=1674086400&v=beta&t=rx7B-1XvahN75bZY0hTPrx7UUPXwdOh2QsVob3OAjWU](https://f8-zpcloud.zdn.vn/8113766353844587932/06ec2eb4ac1e6a40330f.jpg))
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
