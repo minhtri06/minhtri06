@@ -4,7 +4,7 @@
 
 -   🦉 I’m currently a student at Ho Chi Minh University of Science.
 
--   🌱 I’m currently learning Web development and system related.
+-   🌱 I’m currently learning Web development and system-related topics.
 
 -   📫 Email: pmtri.tvv@gmail.com.
 
