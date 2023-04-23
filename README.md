@@ -6,7 +6,7 @@
 
 -   🌱 I’m currently learning Web development and system-related topics.
 
--   📫 Email: pmtri.tvv@gmail.com.
+-   📫 Email: pmtri.tvv@outlook.com.
 
 -   ⚡ My goal is to become a Backend Engineer.
 
