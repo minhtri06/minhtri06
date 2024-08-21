@@ -6,7 +6,7 @@
 
 - I work mainly on the backend side.
 
-- I love exploring things, guitar, and coffee
+- I love exploring things, guitar, and coffee.
 
 ~ Have a good day ~
 
