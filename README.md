@@ -2,14 +2,12 @@
 
 <h1 align="center">Hi 👋🏼, I'm Minh Trí</h1>
 
--   🦉 I’m a student at Ho Chi Minh University of Science.
+- I'm a software engineer working in Ho Chi Minh city.
 
--   🌱 I love software and thinking about how to improve it.
+- I work mainly on the backend side.
 
--   📫 Email: pmtri.tvv@outlook.com.
+- I love exploring things, guitar, and coffee
 
--   ⚡ My goal is to become a Software Engineer.
-
--   ☕ I love coffee.
+~ Have a good day ~
 
 <br/>
