@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="./img/side-image.gif" style="border-radius: 5px;">
+<img align="right" alt="Coding" width="50%" src="./img/side-image.gif" style="border-radius: 5px;">
 
 <h3 align="center"">Hi 👋🏼, I'm Minh Trí</h3>
 
