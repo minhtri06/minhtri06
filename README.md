@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="400" src="./img/side-image.gif" style="border-radius: 5px;">
 
-<h1 align="center">Hi 👋🏼, I'm Minh Trí</h1>
+<h2 align="center">Hi 👋🏼, I'm Minh Trí</h2>
 
 - I'm a software engineer working in Ho Chi Minh city.
 
